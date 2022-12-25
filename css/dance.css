@@ -184,16 +184,17 @@ header {
 }
 
 .MonNom {
-  width: 90%;
+	width: 90%;
 	height: auto;
-	font-family: Arial, Times, sans-serif;
-	text-align: justify;
-	font-style: normal;
+	font-family: Verdana, Arial, Times, sans-serif;
+	font-style: italic;
 	color: white;
-	font-size: 35px;
-	padding-top: 25px;
-  text-align: center;
-  margin: auto;
+	font-size: 16px;
+	line-height: 25px;
+	padding-bottom: 30px;
+  	text-align: justify;
+  	margin: auto;
+	margin-top: 15px;
 }
 
 .pr {
