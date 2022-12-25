@@ -165,11 +165,12 @@ header {
 	font-family: Verdana, Arial, Times, sans-serif;
 	font-style: italic;
 	color: white;
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 25px;
 	padding-bottom: 30px;
-  text-align: justify;
-  margin: auto;
+  	text-align: justify;
+  	margin: auto;
+	margin-top: 15px;
 }
 
 .footer {
